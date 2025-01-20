@@ -1,7 +1,7 @@
 {"warningText": "新年快乐，恭喜发财！","warningText": "时光荏苒",
 "urls":[
 {"name":"时光本地",
-"url":"./time/时光/omg.json"},
+"url":"./time/时光/tv.json"},
 {"name":"时光网盘｜本地仓库","url":"./time/网盘/wp.json"},
 {"name":"时光Vip｜本地仓库",
 "url":"./time/svip/svip.json"},

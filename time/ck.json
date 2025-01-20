@@ -1,0 +1,9 @@
+﻿{ 
+    
+    "storeHouse": [
+        {
+            "sourceName": "时光荏苒",
+            "sourceUrl": "clan://localhost/time/time.json"
+        }
+    ]
+}
